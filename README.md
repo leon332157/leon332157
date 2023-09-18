@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### I'm an Informatics major at University of Massachusetts Amherst
+
 
 <!--
 **leon332157/leon332157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
